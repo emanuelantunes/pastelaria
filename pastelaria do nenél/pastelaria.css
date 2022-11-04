@@ -21,6 +21,8 @@ body {
     text-align: center;
 
     font-size: 30px;
+    
+    
 
 }
 
@@ -29,3 +31,13 @@ body {
 
 
 }
+
+.titulo2 {
+  color: rgb(0, 16, 233);
+  
+}
+
+.preços {
+    font-weight: bold
+}
+
