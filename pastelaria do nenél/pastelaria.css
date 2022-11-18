@@ -16,7 +16,7 @@
 
 body {
 
-    background-color: rgb(226, 223, 223);
+    background-color: rgb(202, 202, 202);
 
     text-align: center;
 
@@ -33,10 +33,25 @@ body {
 }
 
 .titulo2 {
-  color: rgb(0, 16, 233);
+  color: rgb(102, 0, 133);
   
 }
 
 .preços {
     font-weight: bold
+}
+
+img {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+   
+}
+
+.imagem {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+  
+
 }
